@@ -45,8 +45,4 @@ GenPiH Training Pipeline:
 
 ![sim2real](https://github.com/user-attachments/assets/1ba56528-c9b1-49d8-b478-9257c4e5b645)
 
-https://github.com/user-attachments/assets/63d0ae99-2fb2-4d64-bac9-11c1ba8340d3
-
-https://github.com/user-attachments/assets/d2026395-65d9-4330-9eb1-b47981118b7e
-
 
