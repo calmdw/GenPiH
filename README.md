@@ -5,6 +5,7 @@ Xinyu Liu, Aljaz Kramberger, Leon Bodenhagen
 The Maersk Mc-Kinney Moller Institute, University of Southern Denmark, Odense, Denmark
 
 34th International Conference on Robotics in Alpe-Adria-Danube Region
+
 [![Paper_will be released soon](https://img.shields.io/badge/oral presentation-Paper-blue)]
 
 Abstract:
