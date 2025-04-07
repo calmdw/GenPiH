@@ -5,8 +5,8 @@ Xinyu Liu, Aljaz Kramberger, Leon Bodenhagen
 The Maersk Mc-Kinney Moller Institute, University of Southern Denmark, Odense, Denmark
 
 34th International Conference on Robotics in Alpe-Adria-Danube Region
-\\
-[![Paper_will be released soon](https://img.shields.io/badge/oral presentation-Paper-blue)]
+
+![Paper_will be released soon](https://img.shields.io/badge/oral presentation-Paper-blue)
 
 Abstract:
 Generalization is important for peg-in-hole assembly, a fundamental industrial operation, to adapt to dynamic industrial scenarios and enhance manufacturing efficiency. While prior work has enhanced generalization ability for pose variations, spatial generalization to six degrees of freedom (6-DOF) is less researched, limiting application in real-world scenarios. This paper addresses this limitation by developing a general policy GenPiH using Proximal Policy Optimization(PPO) and dynamic simulation with domain randomization. The policy learning experiment demonstrates the policy's generalization ability with nearly 100\% success insertion across over eight thousand unique hole poses in parallel environments, and sim-to-real validation on a UR10e robot confirms the policy’s performance through direct trajectory execution without task-specific tuning.
