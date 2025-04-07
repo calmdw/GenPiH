@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/e6193d95-75fe-4ef3-a828-b49235480bcf
 
 ![training performance](https://github.com/user-attachments/assets/1cac5868-0c91-4885-b4bd-e72ddb1efa42)
 
-*Fast convergence and stable reward evolution over multiple parallel environments.*
+*Fast convergence and stable performance over parallel environments.*
 
 ---
 
