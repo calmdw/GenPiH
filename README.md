@@ -14,15 +14,30 @@ GenPiH Training Pipeline:
 
 ---
 
-## 🧠 Key Features
+## Pose Variation:
 
-- **Hybrid Control Strategy**: Combines learned RL-based policy with a traditional force controller for precise insertion.
-- **Generalization**: Trained policy can handle arbitrary orientations of the hole (up to ±90° around X and Y axes).
-- **High Precision**: Achieves successful insertions with tolerances as tight as 0.5mm.
-- **Two-Stage Policy**: First stage performs rapid coarse alignment; second stage handles contact-rich, precise insertion using force feedback.
-- **Transferable**: Successfully deployed from simulation (Isaac Sim) to a real robot setup.
+\begin{table}
+\centering
+\caption{\centering Hole Pose Range}
+\setlength{\tabcolsep}{6.6mm}%{6.6mm}{% Change this value to adjust the width of the table.
+\begin{tabular}{cc}
+    \hline \rule{0pt}{8pt}% Tables with three horizontal lines are recommended.
+    Variables & Range \\ %& Direction\\
+    \hline
+    X  & $[-0.2, 0.2]m$ \\
+    Y  & $[-0.26, 0.26]m$\\
+    Z   & $[0.0, 0.16]m$\\
+    RPY   & $[-25, 25][deg]$\\
+    \hline
+\end{tabular}
+\label{tab: Hole Pose Range}%
+\end{table}%
 
----
+## Training Performance:
 
-## 🛠️ System Architecture
+[learning_curve.pdf](https://github.com/user-attachments/files/19639774/learning_curve.pdf)
+
+## Sim2Real:
+
+![sim2real](https://github.com/user-attachments/assets/1ba56528-c9b1-49d8-b478-9257c4e5b645)
 
