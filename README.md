@@ -33,11 +33,20 @@ GenPiH Training Pipeline:
 \label{tab: Hole Pose Range}%
 \end{table}%
 
+![simulation_scenario](https://github.com/user-attachments/assets/6c2b165f-0cb2-4f29-bd0c-d27510ede56c)
+
+
 ## Training Performance:
 
-[learning_curve.pdf](https://github.com/user-attachments/files/19639774/learning_curve.pdf)
+![training performance](https://github.com/user-attachments/assets/1cac5868-0c91-4885-b4bd-e72ddb1efa42)
+
 
 ## Sim2Real:
 
 ![sim2real](https://github.com/user-attachments/assets/1ba56528-c9b1-49d8-b478-9257c4e5b645)
+
+https://github.com/user-attachments/assets/63d0ae99-2fb2-4d64-bac9-11c1ba8340d3
+
+https://github.com/user-attachments/assets/d2026395-65d9-4330-9eb1-b47981118b7e
+
 
