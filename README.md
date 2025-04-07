@@ -41,7 +41,7 @@ GenPiH Training Pipeline:
 ![training performance](https://github.com/user-attachments/assets/1cac5868-0c91-4885-b4bd-e72ddb1efa42)
 
 
-## Sim2Real:
+## Sim2Real: XYZRPY:[0.131, -0.703, 0.198]m,[0, 0, 25]degree:
 
 ![sim2real](https://github.com/user-attachments/assets/1ba56528-c9b1-49d8-b478-9257c4e5b645)
 
