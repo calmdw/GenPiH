@@ -2,7 +2,7 @@
 
 **Xinyu Liu**, **Aljaž Kramberger**, **Leon Bodenhagen**  
 *The Maersk Mc-Kinney Moller Institute, University of Southern Denmark, Odense, Denmark*  
-📍 ***Oral Presentation** at the 34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)*
+📍 ***Accepted Oral Presentation**
 
 ---
 
