@@ -8,7 +8,7 @@
 
 ## 🧩 Features
 
-1. Generalization ability to various 6-DOF hole poses.
+1. Generalization ability to various 6-DOF hole pose.
 2. 1mm tolerance assembly with Cranfield assembly benchmark.
 3. Efficient training and nearly 100% success rate.
 
