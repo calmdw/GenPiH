@@ -2,7 +2,7 @@
 
 **Xinyu Liu**, **Aljaž Kramberger**, **Leon Bodenhagen**  
 *The Maersk Mc-Kinney Moller Institute, University of Southern Denmark, Odense, Denmark*  
-📍 ***Accepted Oral Presentation**
+📍 ***Accepted Oral Presentation***
 
 ---
 
